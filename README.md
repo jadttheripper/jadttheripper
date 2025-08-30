@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jad Soubra</h1>
 <h3 align="center">A passionate aspiring software developer and ai researcher</h3>
 
-- 🔭 I’m currently working on **AI powered Applicant Tracking System**
+- 🔭 I’m currently working on **SportsFinder App**
 
-- 🌱 I’m currently learning **React js, Puter Js, Flask**
+- 🌱 I’m currently learning **React js, React Native, SupaBase**
 
-- 💬 Ask me about **Php, Laravel, Machine learning, Python**
+- 💬 Ask me about **Java, Php, TypeScript , Laravel, Machine learning, Python**
 
 - 📫 How to reach me **Jadsoubra05@gmail.com**
 
